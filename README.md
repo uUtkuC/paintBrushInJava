@@ -1,3 +1,7 @@
+This is a project I completed during my 2nd semester in the university.
+I really enjoyed coding it hope you enjoy using it too:)
+- important note: I highly reccomend that you run this code on linux. I tried running it both in windows and in linux, and linux one seemed very smooth almost like real paint. However windows one has a bug that causes whole page to go white for a moment during the shape sizing operations and truthfully it is slightly annoying.
+   
 This is an application that uses GUI's in java.
 It allows you to draw rectangles, ovals and draw with pen. 
 You can move previously drawn shapes.
