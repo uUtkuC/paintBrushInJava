@@ -5,7 +5,7 @@ I really enjoyed coding it hope you enjoy using it too:)
 This is an application that uses GUI's in java.
 It allows you to draw rectangles, ovals and draw with pen. 
 You can move previously drawn shapes.
-The shape that you draw last or move last is seen at the top.
+The shape that you draw last or move last is seen at the top of other shapes.
 How to use:
 Choose a color by clicking the colors on top of the screen.
 Choose the buttons to decide in which format you want to draw.
